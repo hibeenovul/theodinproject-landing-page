@@ -16,7 +16,7 @@
 }
 .first-container
 {
-    max-width: 100%;
+    width: 100%;
     height: 350px;
     background-color: #1F2937;
     color: #F9FAF8;
@@ -92,7 +92,7 @@ button
 }
 .second-container
 {
-    max-width: 100%;
+    width: 100%;
     height: 300px;
     background-color: #F9FAF8;
     display: grid;
@@ -151,7 +151,7 @@ button
 }
 .third-container
 {
-    max-width: 100%;
+    width: 100%;
     height: 300px;
     background-color: rgba(128, 128, 128, 0.459);
     color: black;
@@ -170,7 +170,7 @@ button
 }
 .fourth-container
 {
-    max-width: 100%;
+    width: 100%;
     height: 250px;
     background-color: white;
     display: flex;
@@ -180,7 +180,6 @@ button
     width: 750px;
     height: 100px;
     background-color: blue;
-    border: 2px red;
     margin-top: 75px;
     margin-left: 250px;
     border-radius: 10px;
